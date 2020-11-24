@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: 3.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+caption: In House Restaurant
+name: In House Restaurant
+---
+Xavier’s is all about the food - dishes with original recipes. Returning customers, a prominent number of guests and employees from 5 star hotels who dine here, are testimony to this. With traditional cooking styles, especially recipes passed down from generations, a good meal is assured.
+
+The restaurant specialises in seafood, Indian and Goan cuisine. It has a seating capacity of about seventy. Guests are encouraged to choose their own fish, crabs or lobsters from a big tray with the day’s fresh catch placed nearby. Most of all, what diners swear by is the Beef Steak in Balsamic Sauce served on a good helping of mashed potatoes.
+
+But now Xaviers is an in house restaruant for the guest house with a very short menu and any special orders has to be placed few days before like the Stuffed crabs and lobsters. 
+
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/1.jpg"/>
+
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/2.jpg"/>
+
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/3.jpg"/>
+
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/4.jpg"/>

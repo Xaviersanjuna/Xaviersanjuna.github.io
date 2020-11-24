@@ -1,0 +1,24 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: 1.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+caption:  Deluxe
+name: Deluxe
+---
+
+My Place is called Xavier's Guest House and is located in the South Part of Anjuna, near the Flea Market. It is approximately 200 meters from the Beach where shacks like Shiva Valley, Curlies exist.
+
+Its a cozy private room with a small sitting are in front of the room and there is an in-house seasonal restaurant. where in the rates are reasonable.
+
+
+
+
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/Deluxe/Deluxe2.jpg"/>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/Deluxe/Deluxe4.jpg"/>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/Deluxe/Deluxe31.jpg"/>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/Deluxe/Deluxe32.jpg"/>

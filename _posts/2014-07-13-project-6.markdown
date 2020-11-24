@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: 5.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+caption: Rental Service
+name: Rental Service
+---
+Rental of Cycles, Bikes and Cars possible at the guest house and price would be according to the season.
+
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/r1.jpg"/>
+ <img class="img-responsive img-centered pg2-img" src="/img/xavier/3/r2.jpg"/>
+ <img class="img-responsive img-centered pg2-img" src="/img/xavier/3/r3.jpg"/>
+ <img class="img-responsive img-centered pg2-img" src="/img/xavier/3/cycle.jpg"/>

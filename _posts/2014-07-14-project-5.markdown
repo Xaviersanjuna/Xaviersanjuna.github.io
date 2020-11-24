@@ -1,0 +1,38 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: 6.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+
+caption: Some of the Site seeing Places in Goa
+name: Places you got to see
+---
+These are some few famous site seeing places of goa where you got be when you come here.
+
+
+<p>Fort aguada</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/61.jpg"/>
+<p>Chapora fort</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/62.jpg"/>
+<p>Reis Magos fort</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/63.jpg"/>
+<p>Immaculate conception church</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/64.jpg"/>
+<p>Basilica of Bom Jesus(Old Goa)</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/65.jpg"/>
+<P>St. Cajetan Church(Old Goa)</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/66.jpg"/>
+<p>St Augustine</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/67.jpg"/>
+<P>Mangeshi Temple</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/68.jpg"/>
+<p>Mahadev Temple</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/69.jpg"/>
+<p>Dona paula beach</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/70.jpg"/>
+<p>Miramar beach</p>
+<img class="img-responsive img-centered pg2-img" src="/img/xavier/3/71.jpg"/>
